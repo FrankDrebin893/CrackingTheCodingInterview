@@ -2,7 +2,7 @@ package question71;
 
 import java.util.Random;
 
-public class Card {
+public abstract class Card {
 	public Suit suit;
 	public int number;
 	
